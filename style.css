@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+/* General */
+
+body {
+    background-color: rgb(37, 63, 75);
+    color: rgb(238, 223, 228);
+    font-family: 'Poppins';
+    font-weight: 400;
+    margin-left: 10%;
+  
+}
+h1, h2 {
+    font-weight: 600;
+    text-align: center;
+}
+
+#presentación {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    text-align: right;
+}
+
+#imgp-img {
+    display: flex;
+    margin-top: 3%;
+    margin-left: 20%;
+    margin-right: 15%;
+}
